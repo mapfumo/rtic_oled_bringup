@@ -1,5 +1,7 @@
 # RTIC OLED Bringup
 
+![RTic Image](rtic_img.png)
+
 A Real-Time Interrupt-driven Concurrency (RTIC) example demonstrating interrupt-driven LED blinking and OLED display updates on the STM32F446RE Nucleo board.
 
 ## Overview
