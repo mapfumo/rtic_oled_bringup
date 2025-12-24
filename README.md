@@ -1,6 +1,6 @@
 # RTIC OLED Bringup
 
-![RTic Image](rtic_img.png)
+![RTIC Image](rtic_img.png)
 
 A Real-Time Interrupt-driven Concurrency (RTIC) example demonstrating interrupt-driven LED blinking and OLED display updates on the STM32F446RE Nucleo board.
 
@@ -33,6 +33,8 @@ This project introduces RTIC fundamentals through a practical example:
 **Note**: OLED I2C address is typically `0x3C`. Verify with an I2C scanner if you have connection issues.
 
 ## Features
+
+![RTIC Image](rtic_img_2.png)
 
 ### RTIC Concepts Demonstrated
 
@@ -282,5 +284,7 @@ See `NOTES.md` for common issues and solutions.
 This is example/tutorial code for learning purposes.
 
 ## Author
+
+- Antony Mapfumo https://www.mapfumo.net
 
 Created as part of a 4-month embedded systems learning plan.
